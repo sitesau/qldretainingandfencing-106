@@ -1,0 +1,22 @@
+{
+  "wheel_id": 523,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-106",
+  "project": "retaining-wall-installation-brisbane-signs-you-need-2c908bb8856",
+  "parent_t1_ref": "qldretainingandfencing-152",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane signs you need",
+  "intended_url": "http://retaining-wall-installation-brisbane-signs-you-need-2c908bb8856.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "6040c9dca68c0bf0",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-installation-brisbane-how-to-choose-c778b808d/",
+      "anchor": "Retaining Wall Installation Brisbane How to Choose: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
